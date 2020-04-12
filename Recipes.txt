@@ -4,5 +4,8 @@ kheer
 pasta
 chiken
 
+beans
+pizza
+
 
 thank you!
